@@ -3,6 +3,9 @@
 
 
 int main() {
-	printf("Hello World");
+
+	5;
+	4;
+	2 * 2;
 	return 0;
 }
